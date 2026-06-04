@@ -1,4 +1,3 @@
-local Env = getfenv();
 local y = {};
 local v1 = {...};
 local r1 = true;
